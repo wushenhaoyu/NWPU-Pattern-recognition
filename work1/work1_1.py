@@ -33,18 +33,19 @@ def decisionMaking3(Px_w1,Px_w2,Pw1,Pw2):
         return 2
 
 def decisionMaking4(Px_w,Pw):
-    if(Px_w.len() != Pw.len()):
+    if(Px_w.shape != Pw.shape):
         return
     Px_w = np.asarray(Px_w)
     Pw = np.asarray(Pw)
-    Pw_whole = 0
-    Pw_x = np.zeros((Px_w.shape[1]))
-    for Pw_dot in Pw:
-        Pw_whole += Pw_dot
-    i = 0
-    for Px_w_dot in Px_w:
-        Pw_x[0,i] = Px_w_dot / Pw
-    print("属于w%d:%.3f"%(np.argmax(Pw_x),np.max(Pw_x)))
+    Pw_whole = np.sum(Pw)
+    Pw_x = np.zeros((Px_w.shape))
+    for i, Px_w_dot in enumerate(Px_w):
+        Pw_x[i] = Px_w_dot / Pw_whole  # 将概率归一化为总和
+
+    # 输出结果
+    max_prob = np.max(Pw_x)
+    max_class = np.argmax(Pw_x)
+    print("属于w%d的概率为 %.3f" % (max_class, max_prob))
 
         
         
