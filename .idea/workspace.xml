@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work1/work1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/work1_贝叶斯决策/work1_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +45,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/code/github/AIlab_Auth",
+    "last_opened_file_path": "D:/code/github/Pattern-recognition/work2_多元正态分布决策",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Pattern-recognition" />
