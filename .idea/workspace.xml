@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work2_多元正态分布决策/.ipynb_checkpoints/2-Class Problem.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work2_多元正态分布决策/.ipynb_checkpoints/二分类贝叶斯.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work2_多元正态分布决策/.ipynb_checkpoints/多类贝叶斯.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work2_多元正态分布决策/王浩宇_2022302098_第三次作业.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pattern-recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pattern-recognition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work2_多元正态分布决策/.ipynb_checkpoints/多分类-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work2_多元正态分布决策/多分类正态.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work2_多元正态分布决策/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work2_多元正态分布决策/二分类正态.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work2_多元正态分布决策/多分类.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +63,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/github/Pattern-recognition/work2_多元正态分布决策/.ipynb_checkpoints&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/github/computer&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -138,7 +127,8 @@
       <workItem from="1710749359196" duration="5463000" />
       <workItem from="1710759939049" duration="30000" />
       <workItem from="1710781885039" duration="767000" />
-      <workItem from="1710847608928" duration="339000" />
+      <workItem from="1710847608928" duration="836000" />
+      <workItem from="1710862106332" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
