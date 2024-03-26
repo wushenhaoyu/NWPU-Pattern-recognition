@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
+    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/work3_线性分类器/2-Class Problem.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work3_线性分类器/王浩宇_2022302098_第四次作业.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work3_线性分类器/线性分类器.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work4/2-Class Problem.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work4/感知器.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work4/最小二乘误差判别.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work2_多元正态分布决策/.ipynb_checkpoints/多类贝叶斯.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work2_多元正态分布决策/.ipynb_checkpoints/多类贝叶斯.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,30 +62,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work1_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/github/computer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.work1_1.executor": "Run",
+    "Python.work2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "正在合并 master",
+    "last_opened_file_path": "E:/space/code/NWPU-Pattern-recognition",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\space\code\NWPU-Pattern-recognition\work3_线性分类器" />
       <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策\.ipynb_checkpoints" />
       <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\space\code\NWPU-Pattern-recognition" />
       <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策" />
     </key>
   </component>
@@ -127,8 +136,12 @@
       <workItem from="1710749359196" duration="5463000" />
       <workItem from="1710759939049" duration="30000" />
       <workItem from="1710781885039" duration="767000" />
-      <workItem from="1710847608928" duration="836000" />
-      <workItem from="1710862106332" duration="26000" />
+      <workItem from="1710847608928" duration="339000" />
+      <workItem from="1710848234044" duration="22000" />
+      <workItem from="1710848262090" duration="879000" />
+      <workItem from="1710918210472" duration="7254000" />
+      <workItem from="1710943894189" duration="25000" />
+      <workItem from="1711379846182" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -163,7 +176,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="work" />
-    <option name="LAST_COMMIT_MESSAGE" value="work" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
