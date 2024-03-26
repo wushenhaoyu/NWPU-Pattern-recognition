@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work4/感知器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work4/感知器.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work4/最小二乘误差判别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work4/最小二乘误差判别.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +136,7 @@
       <workItem from="1710848262090" duration="879000" />
       <workItem from="1710918210472" duration="7254000" />
       <workItem from="1710943894189" duration="25000" />
-      <workItem from="1711379846182" duration="6252000" />
+      <workItem from="1711379846182" duration="11842000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
