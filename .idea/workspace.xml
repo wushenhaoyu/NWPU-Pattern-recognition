@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="">
+    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work4/感知器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work4/感知器.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work4/最小二乘误差判别.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work4/最小二乘误差判别.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/space/code/NWPU-Pattern-recognition",
+    "last_opened_file_path": "E:/space/code/NWPU-Pattern-recognition/work4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +76,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\space\code\NWPU-Pattern-recognition\work4" />
       <recent name="E:\space\code\NWPU-Pattern-recognition\work3_线性分类器" />
       <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策\.ipynb_checkpoints" />
       <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策" />
@@ -136,7 +136,7 @@
       <workItem from="1710848262090" duration="879000" />
       <workItem from="1710918210472" duration="7254000" />
       <workItem from="1710943894189" duration="25000" />
-      <workItem from="1711379846182" duration="1102000" />
+      <workItem from="1711379846182" duration="11842000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -171,7 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="work" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
