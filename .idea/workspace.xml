@@ -55,26 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work1_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/space/code/NWPU-Pattern-recognition/work4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.work1_1.executor": "Run",
+    "Python.work2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/code/github/Pattern-recognition/work6_特征选择",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\github\Pattern-recognition\work6_特征选择" />
       <recent name="E:\space\code\NWPU-Pattern-recognition\work4" />
       <recent name="E:\space\code\NWPU-Pattern-recognition\work3_线性分类器" />
       <recent name="D:\code\github\Pattern-recognition\work2_多元正态分布决策\.ipynb_checkpoints" />
@@ -141,6 +142,11 @@
       <workItem from="1711675490288" duration="2780000" />
       <workItem from="1712037542689" duration="4922000" />
       <workItem from="1712043211849" duration="311000" />
+      <workItem from="1712053051400" duration="256000" />
+      <workItem from="1712461532848" duration="12000" />
+      <workItem from="1712563976759" duration="15000" />
+      <workItem from="1712564112329" duration="5000" />
+      <workItem from="1712845919270" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
