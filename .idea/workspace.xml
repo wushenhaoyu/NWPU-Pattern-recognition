@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大作业/大作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大作业/大作业.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,8 @@
       <workItem from="1712845919270" duration="2406000" />
       <workItem from="1713182175766" duration="684000" />
       <workItem from="1713430266492" duration="9000" />
-      <workItem from="1713839799114" duration="5234000" />
+      <workItem from="1713839799114" duration="5570000" />
+      <workItem from="1713849611887" duration="7134000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
