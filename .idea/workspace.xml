@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大作业/大作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大作业/大作业.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,6 +149,7 @@
       <workItem from="1713430266492" duration="9000" />
       <workItem from="1713839799114" duration="5570000" />
       <workItem from="1713849611887" duration="7134000" />
+      <workItem from="1713882815737" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
