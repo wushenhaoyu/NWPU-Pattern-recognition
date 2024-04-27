@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work" />
+    <list default="true" id="79c48ef7-b264-4e3f-9387-94740eeda4b8" name="更改" comment="work">
+      <change afterPath="$PROJECT_DIR$/大作业/大作业改.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大作业/大作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/大作业/大作业.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,8 +64,8 @@
     &quot;Python.work2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/github/Pattern-recognition/work6_特征选择&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;正在合并 master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/git/NWPU-Pattern-recognition&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -149,7 +153,11 @@
       <workItem from="1713430266492" duration="9000" />
       <workItem from="1713839799114" duration="5570000" />
       <workItem from="1713849611887" duration="7134000" />
-      <workItem from="1713882815737" duration="730000" />
+      <workItem from="1713883654927" duration="3274000" />
+      <workItem from="1713887425555" duration="12294000" />
+      <workItem from="1714141754522" duration="52000" />
+      <workItem from="1714141881951" duration="3352000" />
+      <workItem from="1714186561314" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -192,7 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="work" />
-    <option name="LAST_COMMIT_MESSAGE" value="work" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
